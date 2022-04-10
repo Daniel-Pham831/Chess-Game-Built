@@ -1,6 +1,6 @@
 # This is the Development Build of the Chess Game repos
 
-Here is the link: https://github.com/Daniel-Pham831/Chess-Game
+Here is the source repo link ༼ つ ◕_◕ ༽つ : https://github.com/Daniel-Pham831/Chess-Game
 
 How To Test Locally
 
